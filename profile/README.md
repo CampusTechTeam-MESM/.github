@@ -1,34 +1,34 @@
-# MESMx
+# Campus Tech Team – MES College Marampally
 
-**MESMx** is the official GitHub organization for all student-led tech clubs, projects, and programs at **MES College Marampally**.  
-It’s a student club that builds useful projects for the college, learns technology, and collaborates as a team.  
+**Campus Tech Team (CTT)** is the official student-led tech organization of **MES College Marampally**.  
+It brings together students who build useful digital projects for the college, learn technology by doing, and work as a team.
 
-An open-source space where students can collaborate, learn, and continue the work of previous batches.
+CTT is an open, collaborative space where students create, maintain, and continue projects across batches—so good work never gets lost.
 
 ---
 
 ## What We Do
-- Build tools and systems for the college  
-- Learn and experiment with technology  
-- Collaborate on projects and ideas  
-- Share knowledge and improve together  
+- Build and maintain digital systems for the campus  
+- Learn technology through real projects  
+- Collaborate as teams, not individuals  
+- Document and pass knowledge to future batches  
 
 ---
 
 ## Projects
-- College websites and portals  
-- Event and activity tools  
-- Automation and utility apps  
-- Student-built experiments  
+- College and department websites  
+- Event, fest, and activity platforms  
+- Internal tools and automation  
+- Student-built experiments and utilities  
 
 ---
 
 ## Get Involved
-- **Join a club** → Learn & collaborate  
-- **Contribute** → Improve existing projects  
-- **Create** → Start new open-source ideas  
-- **Share** → Keep knowledge alive for the next batch  
+- **Join the team** → Learn by building  
+- **Contribute** → Improve existing systems  
+- **Create** → Start useful campus projects  
+- **Share** → Keep knowledge alive across batches  
 
 ---
 
-**Built by students, for the college.**
+**Built by students, for the campus.**
